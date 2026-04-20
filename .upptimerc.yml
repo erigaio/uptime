@@ -19,12 +19,15 @@ sites:
 
 status-website:
   cname: status.eriga.io
-  name: Eriga Status
-  introTitle: "**Eriga Status** — real-time uptime of eriga.io services."
-  introMessage: Monitoraggio automatico ogni 5 minuti via GitHub Actions.
+  logoUrl: https://raw.githubusercontent.com/erigaio/uptime/master/assets/logo.svg
+  name: Eriga · Status
+  introTitle: Stato dei servizi
+  introMessage: Verifica automatica ogni cinque minuti. Archivio incidenti su GitHub.
   navbar:
     - title: Status
       href: /
+    - title: eriga.io
+      href: https://eriga.io
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
