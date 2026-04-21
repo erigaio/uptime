@@ -36,11 +36,11 @@ status-website:
 
 notifications:
   - type: email
-    smtpHost: smtp.useplunk.com
-    smtpPort: 465
+    smtpHost: smtp.tem.scaleway.com
+    smtpPort: 2465
     smtpUsername: $SMTP_USERNAME
     smtpPassword: $SMTP_PASSWORD
-    from: upptime@eriga.io
+    from: upptime@mail.eriga.io
     to: alerts@eriga.io
     ignoreSSL: false
     secure: true
