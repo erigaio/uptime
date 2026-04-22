@@ -1,7 +1,7 @@
 url: https://api.eriga.io/health/deep
-status: down
-code: 503
-responseTime: 2568
-lastUpdated: 2026-04-22T22:25:06.012Z
+status: up
+code: 200
+responseTime: 1028
+lastUpdated: 2026-04-22T23:09:58.679Z
 startTime: 2026-04-20T15:10:31.790Z
 generator: Upptime <https://github.com/upptime/upptime>
