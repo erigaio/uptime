@@ -1,7 +1,7 @@
 url: https://mcp.eriga.io/health/deep
-status: up
-code: 200
-responseTime: 736
-lastUpdated: 2026-04-21T23:42:25.723Z
+status: down
+code: 503
+responseTime: 2506
+lastUpdated: 2026-04-22T22:25:11.739Z
 startTime: 2026-04-20T15:10:35.224Z
 generator: Upptime <https://github.com/upptime/upptime>
